@@ -1,1 +1,3 @@
-[![Techereo Banner](techereo-banner.png)](https://techereo.zip)
+<a href="https://techereo.zip">
+  <img src="techereo-banner.png" alt="Techereo Banner" width="100%">
+</a>
